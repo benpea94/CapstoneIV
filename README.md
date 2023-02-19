@@ -1,5 +1,4 @@
-# CapstoneIV
-Shoe Inventory Application
+# CapstoneIV - Shoe Inventory Application
 The Shoe Inventory Application is a program designed to manage shoe inventory. The program allows the user to read, edit, and delete shoe inventory. The inventory is stored in a text file named inventory.txt.
 
 Shoe Class
